@@ -1,8 +1,8 @@
 .PHONY: setup
 
 setup:
+	rm -rf ~/.devel/personal
 	mkdir -p ~/.devel/personal
-	cd ~/.devel/personal
 	git clone git@github.com:kenichi-shibata/kenichi-shibata ~/.devel/personal/kenichi-shibata
 	git clone git@github.com:kenichi-shibata/kenichi-shibata.github.io ~/.devel/personal/kenichi-shibata.github.io
 
