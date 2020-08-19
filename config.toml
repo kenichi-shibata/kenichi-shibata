@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://kenichi.shibata.co.uk"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kenichi Shibata"
+theme = "nix"
+
+[params]
+  Name = "Kenichi Shibata"
+  HeaderUsername = "kenichi"
+  HeaderHostname = "shibata.co.uk"
+  About = "I'm a Cloud Solution Architect working in London. Specializing in Containers and Networking."
+  ProfilePicture = "https://avatars0.githubusercontent.com/u/13744098?s=460&u=21c703da9a2c23b2f6c15f81f82ae1f818ed26dc&v=4"
+  GithubID = "kenichi-shibata"
+  LinkedInID = "kenichishibata31"
+  Email = "kenichi@shibata.co.uk"
