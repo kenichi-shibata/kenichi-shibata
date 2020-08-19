@@ -9,6 +9,8 @@ publish:
 	mkdir -p ~/.devel/personal/
 	hugo -d ~/.devel/personal/kenichi-shibata.github.io
 	echo "kenichi.shibata.co.uk" > ~/.devel/personal/kenichi-shibata.github.io/CNAME
+	echo "publish this via github.com/kenichi-shibata/kenichi-shibata\n" > ~/.devel/personal/kenichi-shibata.github.io/readme.md
+	echo "\`make publish\`" >> ~/.devel/personal/kenichi-shibata.github.io/readme.md
 	git -C ~/.devel/personal/kenichi-shibata.github.io init
 	git -C ~/.devel/personal/kenichi-shibata.github.io remote add origin git@github.com:kenichi-shibata/kenichi-shibata.github.io
 	git -C ~/.devel/personal/kenichi-shibata.github.io add ~/.devel/personal/kenichi-shibata.github.io
