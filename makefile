@@ -12,3 +12,7 @@ publish:
 	git -C ~/.devel/personal/kenichi-shibata.github.io add ~/.devel/personal/kenichi-shibata.github.io
 	git -C ~/.devel/personal/kenichi-shibata.github.io commit -m "auto update from makefile"
 	git -C ~/.devel/personal/kenichi-shibata.github.io push origin --force master
+
+dev: # develop
+	hugo server -D &
+	open http://127.0.0.1:1313
