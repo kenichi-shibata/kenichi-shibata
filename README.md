@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/release-date/kenichi-shibata/kenichi-shibata" /></a>        
     <a href="https://github.com/kenichi-shibata/kenichi-shibata/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/w/kenichi-shibata/kenichi-shibata" /></a>
-    <a href="https://circleci.com/gh/badges/shields/tree/master">
+<!--     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
     <a href="https://circleci.com/gh/badges/daily-tests">
         <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
@@ -29,7 +29,7 @@
             alt="Total alerts"/></a>
     <a href="https://github.com/badges/shields/compare/gh-pages...master">
         <img src="https://img.shields.io/github/commits-since/badges/shields/gh-pages?label=commits%20to%20be%20deployed"
-            alt="commits to be deployed"></a>
+            alt="commits to be deployed"></a> -->
 </p>
 
 
