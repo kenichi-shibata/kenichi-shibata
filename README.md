@@ -12,10 +12,10 @@
 <p align="center">
     <a href="https://gist.github.com/kenichi-shibata/f1298240742677cbafc298f07d10515c" alt="keybase URL">
         <img src="https://img.shields.io/keybase/pgp/kenichishibata?style=flat" /></a>
-    <a href="https://github.com/kenichi-shibata/kenichi-shibata/pulse" alt="Activity">
+    <a href="https://github.com/kenichi-shibata/kenichi-shibata/releases" alt="Activity">
         <img src="https://img.shields.io/github/release-date/kenichi-shibata/kenichi-shibata" /></a>        
-    <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://github.com/kenichi-shibata/kenichi-shibata/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/kenichi-shibata/kenichi-shibata" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
     <a href="https://circleci.com/gh/badges/daily-tests">
