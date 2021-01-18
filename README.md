@@ -35,4 +35,4 @@
 
 <img align='right' src='https://media.giphy.com/media/IbOOPCKdvLzTUII5fZ/giphy.gif' width='200"'>
 
-![Metrics](https://metrics.lecoq.io/kenichi-shibata?template=classic&followup=1&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FLondon&config.animated=true)
+![Metrics](https://metrics.lecoq.io/kenichi-shibata?template=classic&followup=1&languages=1&config.timezone=Europe%2FLondon&config.animated=true)
