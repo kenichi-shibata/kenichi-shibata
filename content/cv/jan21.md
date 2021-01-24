@@ -1,23 +1,23 @@
 ---
 title: "Kenichi Shibata"
-date: 2020-08-19T15:36:16+01:00
-draft: true
+date: 2021-01-24T14:30:00+01:00
+draft: false
 ---
 
 _________________
 
 ComparetheMarket 
 ==================
-Cloud Solution Architect (Dec 2019 - Present)
+Cloud Solution Architect (December 2019 - Present)
 ---------------------------
 
-Architected key areas of the cloud infrastructure. 
+* Architected key areas of the cloud infrastructure 
 
-Redesigned exisiting cloud systems following industry standards 
-* Monitoring for Metrics and Logging
-* Deployment Pipeline
-* Kubernetes Cluster
-* Operating Model
+* Redesigned exisiting cloud systems following industry standards 
+  * Monitoring for Metrics and Logging
+  * Deployment Pipeline
+  * Kubernetes Cluster
+  * Operating Model
 
 - Technical Leadership with multiple teams consuming cloud services
 - Consultancy for cloud technology and solution using risk based and reward based approach
@@ -45,87 +45,56 @@ Redesigned exisiting cloud systems following industry standards
 Application Platform Architect (Jan 2019 - Dec 2019)
 -----------------
 
-Evangelize DevOps Culture and Shift Left Security. 
-
-Trained and Mentored Platform and Cloud Engineers for AWS Kubernetes and Terraform. 
-
-Conducted an extensive review of existing platforms which became the basis of an 18 month long roadmap.
-
-Coordinated with the rest of architecture community and helped fill in the gaps of the existing architecture practices.
-
-Triaged and assesed vulnerabilities VM and container level. 
-
-Identified key risks and threats to the existing workflows.
-
-Led integrating Dev and Platform workflows on a high level.
-
-Conducted Kubernetes Workshops internally and encouraged paired knowledge sharing internally and with product teams.
-
-Run multiple PoCs with Vendors and Open Source tools within Cloud Native Landscape. 
-
-Led inclusive ways of working with the Manager of the DevOps Team
-
-Architected for DevOps Team, Detectorist (Observability) Team, DBA Team
-
-Championed Documentation and Demo mindset approach to sharing knowledge through docusaurus portal.
-
-Led the Platform Architecture with the Platform Steering Committee in making effective decision in a Cloud Native fashion.
-
-Helped architect Data platform solutions on AWS.
+* Evangelized DevOps Culture and Shift Left Security 
+* Trained and Mentored Platform and Cloud Engineers for AWS Kubernetes and Terraform 
+* Conducted an extensive review of existing platforms which became the basis of an 18 month long roadmap
+* Coordinated with the rest of architecture community and helped fill in the gaps of the existing architecture practices
+* Triaged and assesed vulnerabilities VM and container level 
+* Identified key risks and threats to the existing workflows
+* Led integrating Dev and Platform workflows on a high level
+* Conducted Kubernetes Workshops internally and encouraged paired knowledge sharing internally and with product teams
+* Run multiple PoCs with Vendors and Open Source tools within Cloud Native Landscape 
+* Led inclusive ways of working with the Manager of the DevOps Team
+* Architected for DevOps Team, Detectorist (Observability) Team, DBA Team
+* Championed Documentation and Demo mindset approach to sharing knowledge through docusaurus portal
+* Led the Platform Architecture with the Platform Steering Committee in making effective decision in a Cloud Native fashion
+* Helped architect Data platform solutions on AWS
 
 _________________
 
 Conde Nast International 
 ==============
 
-Software Engineer Infrastructure and Operations (Jan 2018 - Jan 2019)
+Software Engineer Infrastructure and Operations (January 2018 - January 2019)
 ------------
 
-Infrastructure role and Evangelizing DevOps culture
-
-Wrote code in Infrastructure as Code(IaC) for all infrastructure operations involving AWS, Fastly, Kubernetes, Datadog, Pagerduty all using Terraform
-
-Built relationship with engineering teams across all teams for both Vogue and GQ brands within multiple European and Asian Countries
-
-Developed a platform built for the developers
-
-Taught developers how to use to use the kubernetes orchestration and the developer platform evangelized documentation
-
-Went to scouting and discovery trips in APAC and EMEA regions for deploying  the platform while negotiating  requirements (engineering, commercial and editorial) across multiple Conde Nast Countries and Brands
-
-Solved centralization problem with the team, Centralizing infrastructure and shared CMS platform using the multi tenanted approach of web development.
-
-Built out the operational and support functions with the SRE team using pagerduty and datadog configuration written in terraform
-
-Deployed Compass Project which allows Conde Nast Brands and Countries to be digital and efficiently centralized decreasing cost and improving customer advertisement taking the best practices of each market and reusing it centrally within Vogue International
-
-Led the DNS migration to a central AWS Route53 and CDN Migration to FASTLY CDN using Varnish Configuration Language deployed using terraform provider
-
-Took ownership of communication with individual markets CTOs and CIOs for engineering workstream with the technical lead of migrations team.
-elastic stack
-
-CICD Pipelines Using CircleCI
-
-Deploy Everything using Kubernetes and Helm Chart-ized applications in a Continuous Deployment fashion for Staging and manual approval deployment for Production 
-
-Monitoring using Datadog and Pagerduty
-
-Logging using FluentD ingested to a elasticsearch using Kibana as the dashboard 
-
-CircleCI
-
-Dockerize Applications
-
-Migrate apps from ECS to Kubernetes 
-
-Interviewing Candidates and their technical tests
+* Infrastructure role and Evangelizing DevOps culture
+* Wrote code in Infrastructure as Code(IaC) for all infrastructure operations involving AWS, Fastly, Kubernetes, Datadog, Pagerduty all using Terraform
+* Built relationship with engineering teams across all teams for both Vogue and GQ brands within multiple European and Asian Countries
+* Developed a platform built for the developers
+* Taught developers how to use to use the kubernetes orchestration and the developer platform evangelized documentation
+* Went to scouting and discovery trips in APAC and EMEA regions for deploying  the platform while negotiating  requirements (engineering, commercial and editorial) across multiple Conde Nast Countries and Brands
+* Solved centralization problem with the team, Centralizing infrastructure and shared CMS platform using the multi tenanted approach of web development
+* Built out the operational and support functions with the SRE team using pagerduty and datadog configuration written in terraform
+* Deployed Compass Project which allows Conde Nast Brands and Countries to be digital and efficiently centralized decreasing cost and improving customer advertisement taking the best practices of each market and reusing it centrally within Vogue International
+* Led the DNS migration to a central AWS Route53 and CDN Migration to FASTLY CDN using Varnish Configuration Language deployed using terraform provider
+* Took ownership of communication with individual markets CTOs and CIOs for engineering workstream with the technical lead of migrations team
+* Deployed and Maintained Elastic stack via elastic.co
+* CICD Pipelines Using CircleCI
+* Deploy Everything using Kubernetes and Helm Chart-ized applications in a Continuous Deployment fashion for Staging and manual approval deployment for Production 
+* Monitored using Datadog and Pagerduty
+* Logging using FluentD ingested to a elasticsearch using Kibana as the dashboard 
+* CircleCI
+* Dockerized Applications
+* Migrated apps from ECS to Kubernetes 
+* Interviewed Candidates and their technical tests
 
 _________________
 
 Simplex Japan 
 ===============
 
-Senior DevOps Engineer (Jan 2017 - Dec 2017)
+Senior DevOps Engineer (January 2017 - December 2017)
 --------------
 
 - Successfully introduced Gitlab CE to dev workflow (CICD Pipelines, Source Codes, Pages)
@@ -147,7 +116,7 @@ _________________
 Fast Retailing / Uniqlo
 =================
 
-AWS Architect / Full Stack Engineer (Aug 2015 - Jan 2017)
+AWS Architect / Full Stack Engineer (August 2015 - January 2017)
 ------------------
 
 - Architected Scaleable and Flexible Systems using MicroService Philosophy
