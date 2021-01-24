@@ -19,3 +19,8 @@ theme = "nix"
     name = "cv"
     weight = 0
     url = "/cv"
+
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
