@@ -33,6 +33,7 @@ kill:
 	pkill hugo
 
 purge: # ref: https://api.cloudflare.com/#zone-purge-all-files, create token https://servebolt.com/help/article/how-to-set-up-automatic-cloudflare-cache-purging-in-servebolt-optimizer/
+purge: #TODO: fix this its not working
 purge: EMAIL=${CLOUDFLARE_EMAIL}
 purge: ZONE=${CLOUDFLARE_ZONE}
 purge: API_KEY=${CLOUDFLARE_API_KEY}
