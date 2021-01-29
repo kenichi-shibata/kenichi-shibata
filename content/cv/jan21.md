@@ -42,6 +42,20 @@ Cloud Solution Architect (December 2019 - Present)
 - Supported BI and Analytics by building high level designs using Apache Airflow, Apache Kafka (Connect)
 - Architected Data Analytics platform with Databricks
 
+- Created a strategy for Cleaning up a massive AWS Accounts and was able to to deliver saving of less than $1 million per 2020. 
+- Architected and Designed Cloud Platform integrations with Confluent Cloud to massively scale our Kafka and Data Messaging Capabilities
+
+- Built the 4th Generation Tech Strategy for Cloud and Beyond with the Enterprise Architect.
+  * Productionized FaaS and Serverless
+    * Cloudflare Workers / Lambda @ Edge
+    * Lambda Functions / Step Functions
+  * End to End Observability
+  * Enterprise Grade PaaS (Kubernetes)
+  * Automated Resilience Engineering (Chaos)
+  * Automated Load Testing
+  * AI Driven Insights
+  * Predictive Failure Detection
+
 Application Platform Architect (Jan 2019 - Dec 2019)
 -----------------
 
