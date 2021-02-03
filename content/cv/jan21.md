@@ -1,6 +1,6 @@
 ---
 title: "Kenichi Shibata"
-date: 2021-01-24T14:30:00+01:00
+date: 2021-02-02T14:30:00+01:00
 draft: false
 ---
 
