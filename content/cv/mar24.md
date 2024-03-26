@@ -1,6 +1,6 @@
 ---
 title: "Kenichi Shibata"
-date: 2021-02-02T14:30:00+01:00
+date: 2024-03-25T14:30:00+01:00
 draft: false
 ---
 
@@ -16,7 +16,7 @@ _________________
 
 ## Professional Summary
 
-Innovative and results-driven Lead DevSecOps with over a decade of experience in architecting, implementing, and optimizing cloud infrastructure and security solutions. Proven track record in leading teams to enhance security measures, reduce costs, and improve system efficiency within high-profile organizations. Adept at driving the integration of cutting-edge security tools and practices into software development life cycles. Seeking to leverage extensive background in cloud security and DevOps practices to contribute to the success of a forward-thinking company.
+An innovative DevSecOps leader with over a decade of experience architecting and optimizing cloud infrastructure and security solutions. I excel at driving integration of cutting-edge practices into software development lifecycles to enhance security, reduce costs, and boost efficiency. My expertise has been recognized through speaking engagements at major events like AWS Summit, QCon, and Cloud Expo Europe. As the author of "Cloud Native Monitoring" and "Cloud Native Observability" (O'Reilly Media), and a regular contributor to technical publications, I'm passionate about sharing knowledge. I'm seeking an opportunity to leverage my extensive cloud security, DevOps, and authorship background to drive success for a forward-thinking organization.
 
 ## Work Experience
 
