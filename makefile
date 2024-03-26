@@ -23,6 +23,7 @@ publish:
 	git -C ~/.devel/personal/kenichi-shibata.github.io remote add origin git@github.com:kenichi-shibata/kenichi-shibata.github.io
 	git -C ~/.devel/personal/kenichi-shibata.github.io add ~/.devel/personal/kenichi-shibata.github.io
 	git -C ~/.devel/personal/kenichi-shibata.github.io commit -m "auto update from makefile"
+	git -C ~/.devel/personal/kenichi-shibata.github.io checkout -b master
 	git -C ~/.devel/personal/kenichi-shibata.github.io push origin --force master
 
 dev: # develop
