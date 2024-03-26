@@ -18,54 +18,6 @@ _________________
 
 Innovative and results-driven Lead DevSecOps with over 9 years of experience in architecting, implementing, and optimizing cloud infrastructure and security solutions. Proven track record in leading teams to enhance security measures, reduce costs, and improve system efficiency within high-profile organizations. Adept at driving the integration of cutting-edge security tools and practices into software development life cycles. Seeking to leverage extensive background in cloud security and DevOps practices to contribute to the success of a forward-thinking company.
 
-## Technical Skills
-
-### Cloud Platforms
-- AWS
-- Azure
-- Google Cloud
-
-### Programming Languages  
-- Python
-- JavaScript (React, Node.js)
-- Terraform
-
-### DevSecOps Tools
-- Jenkins
-- Grafana  
-- Prisma
-- Wiz
-- CrowdStrike
-- Qualys
-
-### Security Practices
-- SCA
-- SBOM  
-- SAST
-- DSPM
-- OWASP guidelines
-
-### Containers & Orchestration
-- Docker
-- Kubernetes
-- EKS
-
-### Data Visualization and Monitoring
-- Grafana
-- Datadog
-- Elasticsearch
-- Kibana
-
-### Version Control
-- Git
-- GitHub
-- GitLab
-
-### Database Systems
-- SQL
-- NoSQL
-- Databricks
-
 ## Work Experience
 
 ### Lead DevSecOps, esure Group, Reigate, UK (2022 - Present)
@@ -171,8 +123,6 @@ Identified key risks and threats to the existing workflows.
 - Logging using FluentD ingested to a elasticsearch using Kibana as the dashboard
 - Dockerized Applications with Developers
 
-Published: 
-"How Kubernetes Multitenancy Works" on Hackernoon
 
 ### Principal DevOps, Simplex Technology Inc, Tokyo, JP (2017-01 - 2017-12)
 
@@ -206,26 +156,86 @@ Published:
 - Wrote PoC Applications using ReactJS
 - Work with Infrastructure as a code (Terraform, DCOS, Mesos, Docker, Ansible) for setting up development environment
 
-Published:
-"Kubernetes for the Horizontally Obsessed" on Medium
-"Cloud and the Horizontally Scalable Enterprise" on The Chief.io  
 
 ## Education
 
 Bachelor of Engineering, Computer Science
-University of Tokyo
+Bicol University, PH
 
 ## Certifications
 
-- AWS Certified Solutions Architect - Professional
-- AWS Certified DevOps Engineer - Professional
-- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect 
 
 ## Publications and Contributions  
 
 ### Books
 - **"Cloud Native Monitoring"** (O'Reilly Media, April 2022) - Co-authored with Rob Skillington and Martin Mao
-- **"Cloud Native Observability"** (O'Reilly Media, February 2024) - Co-authored with Rob Skillington and Martin Mao  
+- **"Cloud Native Observability"** (O'Reilly Media, February 2024) - Co-authored with Rob Skillington and Martin Mao
+- **"Key contributor to Team Topologies"** (Sept 2019) - Matthew Skelton and Manuel Pais
 
 ### Articles
-- Articles on Medium, The Chief, Engineering at Esure Blog, and Hackernoon covering topics from Linux I/O performance, AWS authentication vs authorization, to securing Kubernetes using the Kubernetes threat matrix.
+Covering Kubernetes, Cloud, Linux, Security and Git
+- [Articles on Medium](https://kenichishibata.medium.com)
+- [Hackernoon](https://hackernoon.com/u/kenichishibata)
+- [The Chief](http://thechief.io/c/kenichishibata/)
+- [Engineering at Esure Blog](https://www.engineering-esure.com/post/how-we-secured-kubernetes-using-the-kubernetes-threat-matrix)
+
+### Speaking Engagements
+
+- **AWS Summit London 2023** - [Spoke with Wiz on the topic of Cloud Security](https://www.linkedin.com/posts/kenichishibata31_aws-london-activity-7065306289945341952-0aPt)
+- **QCon London 2020** - [Microservices for Growth at comparethemarket.com](https://archive.qconlondon.com/london2020/presentation/microservices-growth-compare-market)
+- **GitOps Days EMEA 2020** - [Security, Compliance and Governance for GitOps](https://www.youtube.com/watch?v=zYnnThcFQhI)
+- **Blueprint LDN 2021** - [Kubernetes Security in a highly regulated environment](https://www.youtube.com/watch?v=HPqgJf6Y3Yg)
+- **Cloud Expo Europe 2021** - [Embracing CloudNative for the digital enterprise](https://www.mohaghighi.com/blog/devops-live-2021)
+  
+## Technical Skills
+
+### Cloud Platforms
+- AWS
+- Azure
+- Google Cloud
+
+### Programming Languages  
+- Python
+- JavaScript (React, Node.js)
+- Golang
+- Bash
+- Terraform
+
+### DevSecOps Tools
+- Jenkins
+- Grafana  
+- Prisma
+- Wiz
+- CrowdStrike
+- Sonarcloud
+- Qualys
+
+### Security Practices
+- SCA
+- SBOM  
+- SAST
+- DSPM
+- OWASP guidelines
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+- EKS
+
+### Data Visualization and Monitoring
+- Grafana
+- Datadog
+- Elasticsearch
+- Kibana
+
+### Version Control
+- Git
+- GitHub
+- GitLab
+
+### Database Systems
+- SQL
+- NoSQL (MongoDB)
+- Databricks
+
