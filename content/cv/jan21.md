@@ -16,7 +16,7 @@ _________________
 
 ## Professional Summary
 
-Innovative and results-driven Lead DevSecOps with over 9 years of experience in architecting, implementing, and optimizing cloud infrastructure and security solutions. Proven track record in leading teams to enhance security measures, reduce costs, and improve system efficiency within high-profile organizations. Adept at driving the integration of cutting-edge security tools and practices into software development life cycles. Seeking to leverage extensive background in cloud security and DevOps practices to contribute to the success of a forward-thinking company.
+Innovative and results-driven Lead DevSecOps with over a decade of experience in architecting, implementing, and optimizing cloud infrastructure and security solutions. Proven track record in leading teams to enhance security measures, reduce costs, and improve system efficiency within high-profile organizations. Adept at driving the integration of cutting-edge security tools and practices into software development life cycles. Seeking to leverage extensive background in cloud security and DevOps practices to contribute to the success of a forward-thinking company.
 
 ## Work Experience
 
