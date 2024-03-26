@@ -187,7 +187,8 @@ Covering Kubernetes, Cloud, Linux, Security and Git
 - **GitOps Days EMEA 2020** - [Security, Compliance and Governance for GitOps](https://www.youtube.com/watch?v=zYnnThcFQhI)
 - **Blueprint LDN 2021** - [Kubernetes Security in a highly regulated environment](https://www.youtube.com/watch?v=HPqgJf6Y3Yg)
 - **Cloud Expo Europe 2021** - [Embracing CloudNative for the digital enterprise](https://www.mohaghighi.com/blog/devops-live-2021)
-  
+- **esure and wiz partnership 2023** - [Esure Case Study](https://www.wiz.io/customers/esure)
+- 
 ## Technical Skills
 
 ### Cloud Platforms
