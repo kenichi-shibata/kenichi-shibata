@@ -16,7 +16,7 @@ _________________
 
 ## Professional Summary
 
-An innovative DevSecOps leader with over a decade of experience architecting and optimizing cloud infrastructure and security solutions. I excel at driving integration of cutting-edge practices into software development lifecycles to enhance security, reduce costs, and boost efficiency. My expertise has been recognized through speaking engagements at major events like AWS Summit, QCon, and Cloud Expo Europe. As the author of "Cloud Native Monitoring" and "Cloud Native Observability" (O'Reilly Media), and a regular contributor to technical publications, I'm passionate about sharing knowledge. I'm seeking an opportunity to leverage my extensive cloud security, DevOps, and authorship background to drive success for a forward-thinking organization.
+An innovative DevSecOps leader with over a decade of experience architecting and optimizing cloud infrastructure and security solutions. I excel at driving integration of cutting-edge practices into software development lifecycles to enhance security, reduce costs, and boost efficiency. My expertise has been recognized through speaking engagements at major events like AWS Summit, QCon, and Cloud Expo Europe. As the author of "Cloud Native Monitoring" and "Cloud Native Observability" (O'Reilly Media), and a regular contributor to technical publications, I'm passionate about sharing knowledge and mentorship. I'm seeking an opportunity to leverage my extensive cloud security, DevOps, and authorship background to drive success for a forward-thinking organization.
 
 ## Work Experience
 
