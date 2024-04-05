@@ -1,4 +1,3 @@
-
 # Kenichi Shibata
 
 **Location:** Redhill, England, UK
