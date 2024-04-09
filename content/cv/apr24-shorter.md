@@ -47,19 +47,17 @@ An innovative DevSecOps leader with over a decade of experience architecting and
 - Built a security telemetry system and dashboard to provide executives with 10000 ft view of our Cloud Estate Security
 - SME for AWS Cloud Cost Optimisation
 
-### Cloud Solution Architect, comparethemarket.com, London, UK (2019-12 - 2021-04)
+### Previous Roles  
 
+- Cloud Solution Architect, comparethemarket.com, __London, UK__ `(2019-12 - 2021-04)`
 
-### Application (Platform) Architect, comparethemarket.com, London, UK (2019-01 - 2019-12)
+- Application (Platform) Architect, comparethemarket.com, __London, UK__ `(2019-01 - 2019-12)`
 
+- Software Engineer, Infrastructure and Operations, Condé Nast International, __London, UK__ `(2018-01 - 2019-01)`
 
-### Software Engineer, Infrastructure and Operations, Condé Nast International, London, UK (2018-01 - 2019-01)
+- Principal DevOps, Simplex Technology Inc, __Tokyo, JP__ `(2017-01 - 2017-12)`
 
-
-### Principal DevOps, Simplex Technology Inc, Tokyo, JP (2017-01 - 2017-12)
-
-
-### Full Stack Engineer/ AWS Architect, Fast Retailing, Tokyo, JP (2015-08 - 2017-01)
+- Full Stack Engineer/ AWS Architect, Fast Retailing, __Tokyo, JP__ `(2015-08 - 2017-01)`
 
 
 
