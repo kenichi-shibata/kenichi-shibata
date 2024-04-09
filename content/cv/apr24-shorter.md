@@ -1,11 +1,12 @@
-
 # Kenichi Shibata
+
 
 **Location:** Redhill, England, UK
 **Email:** kenichi@shibata.co.uk
 **Website:** [kenichi.shibata.co.uk](http://kenichi.shibata.co.uk)
 **GitHub:** [github.com/kenichi-shibata](https://github.com/kenichi-shibata)
 **LinkedIn:** [linkedin.com/in/kenichishibata31](https://www.linkedin.com/in/kenichishibata31)
+
 
 ## Professional Summary
 
