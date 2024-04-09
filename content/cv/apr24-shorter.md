@@ -1,6 +1,5 @@
 # Kenichi Shibata
 
-
 **Location:** Redhill, England, UK
 **Email:** kenichi@shibata.co.uk
 **Website:** [kenichi.shibata.co.uk](http://kenichi.shibata.co.uk)
