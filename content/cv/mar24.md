@@ -1,7 +1,7 @@
 ---
 title: "Kenichi Shibata"
 date: 2024-03-25T14:30:00+01:00
-draft: false
+draft: true
 ---
 
 _________________
@@ -181,7 +181,8 @@ Covering Kubernetes, Cloud, Linux, Security and Git
 - [Engineering at Esure Blog](https://www.engineering-esure.com/post/how-we-secured-kubernetes-using-the-kubernetes-threat-matrix)
 
 ### Speaking Engagements
-
+- **Wiz Code CAB 2025** - [DevSecOps at Esure]()
+- **AWS Summit London 2025** - [Spoke with Semgrep - Using AI with SAST](https://www.linkedin.com/posts/semgrep_ccsel-ai-appsec-ugcPost-7305986541695156225-1Tpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmEc2cBJDLC0qYojkFxpfhifpjmAXGsaBk)
 - **AWS Summit London 2023** - [Spoke with Wiz on the topic of Cloud Security](https://www.linkedin.com/posts/kenichishibata31_aws-london-activity-7065306289945341952-0aPt)
 - **QCon London 2020** - [Microservices for Growth at comparethemarket.com](https://archive.qconlondon.com/london2020/presentation/microservices-growth-compare-market)
 - **GitOps Days EMEA 2020** - [Security, Compliance and Governance for GitOps](https://www.youtube.com/watch?v=zYnnThcFQhI)

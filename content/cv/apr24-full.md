@@ -1,3 +1,11 @@
+---
+title: "Kenichi Shibata"
+date: 2025-05-25T14:30:00+01:00
+draft: false
+---
+
+_________________
+
 # Kenichi Shibata
 
 **Location:** Redhill, England, UK
@@ -171,10 +179,11 @@ Covering Kubernetes, Cloud, Linux, Security and Git
 - [Articles on Medium](https://kenichishibata.medium.com)
 - [Hackernoon](https://hackernoon.com/u/kenichishibata)
 - [The Chief](http://thechief.io/c/kenichishibata/)
-- [Engineering at Esure Blog](https://www.engineering-esure.com/post/how-we-secured-kubernetes-using-the-kubernetes-threat-matrix)
+- [Engineering at BeyondDevSecOps Blog](https://www.beyond-devsecops.com)j
 
 ### Speaking Engagements
-
+- **Wiz Code CAB 2025** - [DevSecOps at Esure]()
+- **AWS Summit London 2025** - [Spoke with Semgrep - Using AI with SAST](https://www.linkedin.com/posts/semgrep_ccsel-ai-appsec-ugcPost-7305986541695156225-1Tpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmEc2cBJDLC0qYojkFxpfhifpjmAXGsaBk)
 - **AWS Summit London 2023** - [Spoke with Wiz on the topic of Cloud Security](https://www.linkedin.com/posts/kenichishibata31_aws-london-activity-7065306289945341952-0aPt)
 - **QCon London 2020** - [Microservices for Growth at comparethemarket.com](https://archive.qconlondon.com/london2020/presentation/microservices-growth-compare-market)
 - **GitOps Days EMEA 2020** - [Security, Compliance and Governance for GitOps](https://www.youtube.com/watch?v=zYnnThcFQhI)
