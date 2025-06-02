@@ -1,6 +1,6 @@
 ---
-title: "Kenichi Shibata"
-date: 2025-05-25T14:30:00+01:00
+title: "Kenichi Shibata old cv"
+date: 2024-03-25T14:30:00+01:00
 draft: false
 ---
 
@@ -8,15 +8,15 @@ _________________
 
 # Kenichi Shibata
 
-* **Location:** Horley, England, UK
-* **Email:** kenichi@shibata.co.uk
-* **Website:** [kenichi.shibata.co.uk](http://kenichi.shibata.co.uk)
-* **GitHub:** [github.com/kenichi-shibata](https://github.com/kenichi-shibata)
-* **LinkedIn:** [linkedin.com/in/kenichishibata31](https://www.linkedin.com/in/kenichishibata31)
+**Location:** Redhill, England, UK  
+**Email:** kenichi@shibata.co.uk  
+**Website:** [kenichi.shibata.co.uk](http://kenichi.shibata.co.uk)  
+**GitHub:** [github.com/kenichi-shibata](https://github.com/kenichi-shibata)  
+**LinkedIn:** [linkedin.com/in/kenichishibata31](https://www.linkedin.com/in/kenichishibata31)  
 
 ## Professional Summary
 
-An innovative DevSecOps leader with over a decade of experience architecting and optimizing cloud infrastructure and security solutions. I excel at driving integration of cutting-edge practices into software development lifecycles to enhance security, reduce costs, and boost efficiency. My expertise has been recognized through speaking engagements at major events like AWS Summit, QCon, and Cloud Expo Europe. As the author of "Cloud Native Monitoring" and "Cloud Native Observability" (O'Reilly Media), and a regular contributor to technical publications, I'm passionate about sharing knowledge, building teams, pragmatic architectures and mentorship. I'm seeking an opportunity to leverage my extensive cloud security, DevOps, team building/mentorship experience and authorship background to drive success for a forward-thinking organization. My technical skills include Kubernetes (8+ years in production), Linux, AWS, Python, and Golang.
+An innovative DevSecOps leader with over a decade of experience architecting and optimizing cloud infrastructure and security solutions. I excel at driving integration of cutting-edge practices into software development lifecycles to enhance security, reduce costs, and boost efficiency. My expertise has been recognized through speaking engagements at major events like AWS Summit, QCon, and Cloud Expo Europe. As the author of "Cloud Native Monitoring" and "Cloud Native Observability" (O'Reilly Media), and a regular contributor to technical publications, I'm passionate about sharing knowledge and mentorship. I'm seeking an opportunity to leverage my extensive cloud security, DevOps, and authorship background to drive success for a forward-thinking organization.
 
 ## Work Experience
 
@@ -24,24 +24,24 @@ An innovative DevSecOps leader with over a decade of experience architecting and
 
 - Founded and directed a team of 5 DevSecOps engineers, integrating security measures into the Software Development Life Cycle (SDLC) at esure focusing on AWS cloud
 - Crafted the strategic vision and roadmap for the DevSecOps function
-- Managed the transition from Prisma Cloud to Wiz, improving our cloud security capabilities
+- Managed the transition from Prisma Cloud to Wiz, improving our cloud security capabilities  
 - Integrated multiple security tools, including CrowdStrike, Active Directory, Qualys, Wiz, and Prisma, into a unified security operations view via API Integration
 - Developed a centralized DevSecOps system that consolidated security data, enabling executive prioritization using API Integration with Grafana
 - Engineered a DevSecOps pipeline with scanning capabilities such as SCA, SBOM, SAST, and DSPM on AWS systems
 - Authored an internal best practice guideline in Python 3.10, promoting secure coding practices
 - Implemented a Grafana-based alerting system, focusing on critical P1 incidents
-- Created 'Yikes!', a tool for vulnerability and misconfiguration management, prioritizing issues based on exploitability using the MITRE attack framework
+- Created 'Yikes!', a tool for vulnerability and misconfiguration management, prioritizing issues based on exploitability using the MITRE attack framework  
 - Led the 'joiners, movers, leavers' automation team, focusing on risk mitigation in Permission groups
 - Collaborated with the DevOps team to address key Cloud vulnerabilities and misconfigurations
 - Developed an internal system for Access Recertification using React JS and Python Fast API
-- Created a system to detect end of life (EOL) systems in our cloud and on-premise estate via API Integration
+- Created a system to detect end of life (EOL) systems in our cloud and on-premise estate via API Integration 
 - Achieved a reduction of P1 security incidents from 3 per month to 0-1 per month
 - Published "How we secured Kubernetes using the Kubernetes Threat Matrix" on engineering-esure.com
 
 ### Cloud Security Architect, esure Group, Reigate, UK (2021-04 - 2022-01)
 
 - Secured AWS Cloud, EKS and Kubernetes Workloads via CSPM and CWPP tools
-- Designing HLD for end to end Cloud Security
+- Designing HLD for end to end Cloud Security  
 - Built PoC and working with Cloud security vendors
 - Setting principles and patterns for secure designs with Databricks Data platform
 - Curated secure standards and patterns in cloud architectures (for EDA architectures)
@@ -59,12 +59,12 @@ An innovative DevSecOps leader with over a decade of experience architecting and
 
 - Architected key areas of the cloud infrastructure.
 - Redesigned exisiting cloud systems following industry standards
-    * Monitoring for Metrics and Logging
+    * Monitoring for Metrics and Logging  
     * Deployment Pipeline
     * Kubernetes Cluster
     * Operating Model
 - Technical Leadership with multiple teams consuming cloud services
-- Consultancy for cloud technology and solution using risk based and reward based approach
+- Consultancy for cloud technology and solution using risk based and reward based approach  
 - Built a cloud infrastructure roadmap and vision for the new generation tech strategy
 - Became the SME for the Cloud Infrastructure on Architecture and C-Level
 - Cooperated with all levels Architecture to set standards and architectural principles around URLs for SEO and Performance
@@ -74,11 +74,11 @@ An innovative DevSecOps leader with over a decade of experience architecting and
 - Developed and championed enterprise grade PaaS defining solutions for the next generation tech strategy
 - Developed Roadmap for Enterprise Grade Kubernetes as part of enterprise grade paas with focus on
     - End to end observability
-    - Cost Optimization
+    - Cost Optimization  
     - Smart Deployments
     - Cluster as Cattle
     - Load Testing
-    - Self service Platform via Portal and Documentation
+    - Self service Platform via Portal and Documentation  
     - Internal Product via Innersourcing
 - Built and designed network with third party partners via CDN, AWS VPC Peering, Privatelink
 - PoC with third party data analytics provider with focus on security and network partition tolerance
@@ -91,8 +91,8 @@ An innovative DevSecOps leader with over a decade of experience architecting and
 - Evangelize DevOps Culture and Shift Left Security.
 - Trained and Mentored Platform and Cloud Engineers for AWS Kubernetes and Terraform.
 - Conducted an extensive review of existing platforms which became the basis of an 18 month long roadmap.
-- Coordinated with the rest of architecture community and helped fill in the gaps of the existing architecture practices.
-- Triaged and assesed vulnerabilities VM and container level.
+- Coordinated with the rest of architecture community and helped fill in the gaps of the existing architecture practices.  
+- Triaged and assesed vulnerabilities VM and container level. 
 Identified key risks and threats to the existing workflows.
 - Led integrating Dev and Platform workflows on a high level.
 - Conducted Kubernetes Workshops internally and encouraged paired knowledge sharing internally and with product teams.
@@ -105,7 +105,7 @@ Identified key risks and threats to the existing workflows.
 
 ### Software Engineer, Infrastructure and Operations, Condé Nast International, London, UK (2018-01 - 2019-01)
 
-- Built Kubernetes Platform for Developers and Help Evangelizing it.
+- Built Kubernetes Platform for Developers and Help Evangelizing it.  
 - Infrastructure role and Evangelizing DevOps culture
 - Wrote code in Infrastructure as Code(IaC) for all infrastructure operations involving AWS, Fastly, Kubernetes, Datadog, Pagerduty all using Terraform
 - Built relationship with engineering teams across all teams for both Vogue and GQ brands within multiple European and Asian Countries
@@ -127,7 +127,7 @@ Identified key risks and threats to the existing workflows.
 ### Principal DevOps, Simplex Technology Inc, Tokyo, JP (2017-01 - 2017-12)
 
 - Worked closely with Beacon.io for building and maintaining HPC platform for Financial Products
-- Successfully introduced Gitlab CE to dev workflow (CICD Pipelines, Source Codes, Pages)
+- Successfully introduced Gitlab CE to dev workflow (CICD Pipelines, Source Codes, Pages)  
 - Managed, negotiated and implemented feedhandlers with Financial Data Brokers
 - Developed APIs using Python for interfacing with Numerical Data with High Complexity NumPy and Pandas
 - Introduced OpenLDAP as the best practice for authentication and authorization for internal development tools
@@ -164,9 +164,9 @@ Bicol University, PH
 
 ## Certifications
 
-- AWS Certified Solutions Architect
+- AWS Certified Solutions Architect 
 
-## Publications and Contributions
+## Publications and Contributions  
 
 ### Books
 - **"Cloud Native Monitoring"** (O'Reilly Media, April 2022) - Co-authored with Rob Skillington and Martin Mao
@@ -175,11 +175,10 @@ Bicol University, PH
 
 ### Articles
 Covering Kubernetes, Cloud, Linux, Security and Git
-
 - [Articles on Medium](https://kenichishibata.medium.com)
 - [Hackernoon](https://hackernoon.com/u/kenichishibata)
 - [The Chief](http://thechief.io/c/kenichishibata/)
-- [Engineering at BeyondDevSecOps Blog](https://www.beyond-devsecops.com)j
+- [Engineering at Esure Blog](https://www.engineering-esure.com/post/how-we-secured-kubernetes-using-the-kubernetes-threat-matrix)
 
 ### Speaking Engagements
 - **Wiz Code CAB 2025** - [DevSecOps at Esure]()
@@ -190,4 +189,55 @@ Covering Kubernetes, Cloud, Linux, Security and Git
 - **Blueprint LDN 2021** - [Kubernetes Security in a highly regulated environment](https://www.youtube.com/watch?v=HPqgJf6Y3Yg)
 - **Cloud Expo Europe 2021** - [Embracing CloudNative for the digital enterprise](https://www.mohaghighi.com/blog/devops-live-2021)
 - **esure and wiz partnership 2023** - [Esure Case Study](https://www.wiz.io/customers/esure)
+- 
+## Technical Skills
+
+### Cloud Platforms
+- AWS
+- Azure
+- Google Cloud
+
+### Programming Languages  
+- Python
+- JavaScript (React, Node.js)
+- Golang
+- Bash
+- Terraform
+
+### DevSecOps Tools
+- Jenkins
+- Grafana  
+- Prisma
+- Wiz
+- CrowdStrike
+- Sonarcloud
+- Qualys
+
+### Security Practices
+- SCA
+- SBOM  
+- SAST
+- DSPM
+- OWASP guidelines
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+- EKS
+
+### Data Visualization and Monitoring
+- Grafana
+- Datadog
+- Elasticsearch
+- Kibana
+
+### Version Control
+- Git
+- GitHub
+- GitLab
+
+### Database Systems
+- SQL
+- NoSQL (MongoDB)
+- Databricks
 
