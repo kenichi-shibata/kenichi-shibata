@@ -182,7 +182,7 @@ Covering Kubernetes, Cloud, Linux, Security and Git
 - [Engineering at BeyondDevSecOps Blog](https://www.beyond-devsecops.com)j
 
 ### Speaking Engagements
-- **Wiz Code CAB 2025** - [DevSecOps at Esure]()
+- **Wiz Code CAB 2025** - [DevSecOps at Esure](https://docs.google.com/presentation/d/1L1ykWoNEVfvEBAomF9XVGm4MveuFbdXa/edit?usp=drive_link&ouid=102361250167952690366&rtpof=true&sd=true)
 - **AWS Summit London 2025** - [Spoke with Semgrep - Using AI with SAST](https://www.linkedin.com/posts/semgrep_ccsel-ai-appsec-ugcPost-7305986541695156225-1Tpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmEc2cBJDLC0qYojkFxpfhifpjmAXGsaBk)
 - **AWS Summit London 2023** - [Spoke with Wiz on the topic of Cloud Security](https://www.linkedin.com/posts/kenichishibata31_aws-london-activity-7065306289945341952-0aPt)
 - **QCon London 2020** - [Microservices for Growth at comparethemarket.com](https://archive.qconlondon.com/london2020/presentation/microservices-growth-compare-market)
